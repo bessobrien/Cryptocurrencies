@@ -25,7 +25,14 @@ The next step was to cluster the cryptocurrencies using K-means algorithm. To do
 1. Created an elbow curve using hvPlot to find the best value for K from the pcs_df DataFrame.
 2. Run the K-means algorithm to predict the K clusters for the cryptocurrencies' data.
 
+
+![elbow](https://github.com/bessobrien/Cryptocurrencies/blob/main/Resources/elbow.png)
+
+
 Finally, I visualized the distict groups that correspond to the three pricipal components, and then created a table with all the currently tradable cryptocurrencies.
+
+![scatter](https://github.com/bessobrien/Cryptocurrencies/blob/main/Resources/scatter.png)
+
 
 ## Summary
 
